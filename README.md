@@ -3,7 +3,7 @@
 **CleanTemp** — лёгкая программа для очистки временных файлов Windows.  
 Удаляет `Temp`, `Prefetch`, `Recycle Bin` и освобождает место на диске.  
 
-![screenshot](https://github.com/yourusername/CleanTemp/assets/demo.png)
+
 
 ---
 
